@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = m.kohnz@portagon.com
+	name = Marcel Kohnz
